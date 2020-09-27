@@ -1,0 +1,13 @@
+D:\_Send Mail\netmailsender-1.4.0.15\ece2\NetMailSample\bin\Debug\NetMailSample.exe.config
+D:\_Send Mail\netmailsender-1.4.0.15\ece2\NetMailSample\bin\Debug\NetMailSample.exe
+D:\_Send Mail\netmailsender-1.4.0.15\ece2\NetMailSample\bin\Debug\NetMailSample.pdb
+D:\_Send Mail\netmailsender-1.4.0.15\ece2\NetMailSample\obj\Debug\ECE.csprojResolveAssemblyReference.cache
+D:\_Send Mail\netmailsender-1.4.0.15\ece2\NetMailSample\obj\Debug\NetMailSample.Forms.frmAbout.resources
+D:\_Send Mail\netmailsender-1.4.0.15\ece2\NetMailSample\obj\Debug\NetMailSample.Forms.frmAddHeaders.resources
+D:\_Send Mail\netmailsender-1.4.0.15\ece2\NetMailSample\obj\Debug\NetMailSample.Forms.frmAlternateView.resources
+D:\_Send Mail\netmailsender-1.4.0.15\ece2\NetMailSample\obj\Debug\NetMailSample.Forms.frmMessageOptions.resources
+D:\_Send Mail\netmailsender-1.4.0.15\ece2\NetMailSample\obj\Debug\NetMailSample.frmMain.resources
+D:\_Send Mail\netmailsender-1.4.0.15\ece2\NetMailSample\obj\Debug\NetMailSample.Properties.Resources.resources
+D:\_Send Mail\netmailsender-1.4.0.15\ece2\NetMailSample\obj\Debug\ECE.csproj.GenerateResource.Cache
+D:\_Send Mail\netmailsender-1.4.0.15\ece2\NetMailSample\obj\Debug\NetMailSample.exe
+D:\_Send Mail\netmailsender-1.4.0.15\ece2\NetMailSample\obj\Debug\NetMailSample.pdb
